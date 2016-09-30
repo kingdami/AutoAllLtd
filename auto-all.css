@@ -1,0 +1,64 @@
+@charset "utf-8";
+/* CSS Document */
+.whiteLine1 {
+	height: 100px;
+	color: white;
+
+	background-color: #CACACA;
+}
+
+h1 {
+	text-align:center;
+	font-family:"Arial Black", Gadget, sans-serif;
+	font-size: 2em;
+}
+
+th {
+	text-align:center;
+	font-size: 2em;
+	font:Arial, Helvetica, sans-serif;
+}
+
+#menu {
+	font-family: "Arial Black", Gadget, sans-serif;
+	margin: 5px 5px 5px 5px;
+	color: #ffc400;
+	font-size: 1em;
+	width: 25%;
+	position: absolute;
+	float:right;
+	
+}
+#navbar {
+	border: 2px solid black;
+}
+
+#bcg {
+	width:100%;
+}
+
+
+#about {
+	height: 300px;
+	width : 50%;
+	color: white;
+}
+	
+#bottom {
+	background-color: #00b2ed;
+}
+
+
+#logo {
+	float:left;
+	height: 10%;
+	width: auto;
+	position: absolute;
+	margin: 75px 100px 100px 100px;
+	
+}
+
+.nav {
+	position: relative;
+	width: 100%;
+}
